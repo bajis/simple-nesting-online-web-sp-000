@@ -37,7 +37,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-     alan_kay[0]
+     alan_kay_is_known_for = alan_kay[0]
 end
 
 def dennis_ritchies_language
